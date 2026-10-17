@@ -10,6 +10,7 @@ Sample mobile app projects by **Faisal Shahzad Naeem**. Each project has its own
 |-----|---------|--------------|-------|--------|
 | 01 | BiteCraft Express: Food Delivery App (Cart & Checkout Screen) | Mobile-first cart and checkout screen with item customization, delivery address and ETA, loyalty coins, coupon code, driver tip, full bill breakdown and payment method selection | HTML, Tailwind CSS | [01-bitecraft-express-food-delivery-app](01-bitecraft-express-food-delivery-app) |
 | 02 | BurgerRush: Fast Food & Takeaway App | Mobile-first food ordering app with menu catalog, cart and checkout, biometric login, live order tracking, admin analytics and an AI support assistant | React, TypeScript, Vite, Tailwind CSS, Express, Gemini API | [02-burgerrush-fast-food-takeaway-app](02-burgerrush-fast-food-takeaway-app) |
+| 03 | TacoCraft: Fast Food & Takeaway App | Mobile-first taco ordering app with biometric login, 3D taco customizer, AI flavor recommendations, checkout, live order tracking, support chat and an admin dashboard | React, TypeScript, Vite, Tailwind CSS, Express, Gemini API | [03-tacocraft-fast-food-takeaway-app](03-tacocraft-fast-food-takeaway-app) |
 
 ## Screenshots
 
@@ -30,5 +31,24 @@ Sample mobile app projects by **Faisal Shahzad Naeem**. Each project has its own
 <img width="1897" height="979" alt="Screenshot 2026-10-16 172208" src="https://github.com/user-attachments/assets/9acd9b14-094f-4c16-ae80-ab48a0f344ad" />
 <img width="1910" height="969" alt="Screenshot 2026-10-16 172304" src="https://github.com/user-attachments/assets/a0972b2e-6a71-4aaf-9f2e-05bbc6a828e5" />
 <img width="1907" height="965" alt="Screenshot 2026-10-16 172738" src="https://github.com/user-attachments/assets/92d93fe6-911e-4870-b66d-0ab3920c8cb0" />
+### 03 - TacoCraft Fast Food & Takeaway App
+<img width="1919" height="947" alt="Screenshot 2026-10-16 184520" src="https://github.com/user-attachments/assets/ec3311ed-983a-4307-9468-5389318a27e8" />
+<img width="1920" height="956" alt="Screenshot 2026-10-16 184546" src="https://github.com/user-attachments/assets/c0073ff3-28c9-437e-a375-510ecc0db121" />
+<img width="1916" height="943" alt="Screenshot 2026-10-16 184613" src="https://github.com/user-attachments/assets/73aa9fe9-470c-4de7-bf9d-f4560f4fbd77" />
+<img width="1917" height="947" alt="Screenshot 2026-10-16 184652" src="https://github.com/user-attachments/assets/e6d0fbb4-8468-4199-b398-b06f58c48e8c" />
+<img width="1913" height="953" alt="Screenshot 2026-10-16 184728" src="https://github.com/user-attachments/assets/a27d4e3f-722f-4ccb-bb05-a36698c3fbdd" />
+<img width="1917" height="957" alt="Screenshot 2026-10-16 184750" src="https://github.com/user-attachments/assets/66bc2f27-8500-4e2b-a369-b9207b926b64" />
+<img width="1920" height="946" alt="Screenshot 2026-10-16 184816" src="https://github.com/user-attachments/assets/78944aa1-2fc9-4eb6-bcc3-0c5ab1723bcf" />
+<img width="1913" height="950" alt="Screenshot 2026-10-16 184858" src="https://github.com/user-attachments/assets/5299228b-c81c-48f9-b2e0-013194a8b1b4" />
+<img width="1920" height="952" alt="Screenshot 2026-10-16 184922" src="https://github.com/user-attachments/assets/1b9cfcfb-80e3-49a2-83cb-419091fc9864" />
+<img width="1919" height="953" alt="Screenshot 2026-10-16 184940" src="https://github.com/user-attachments/assets/a8ebc743-33f7-4f31-b601-52941b5d1ef6" />
+<img width="1917" height="949" alt="Screenshot 2026-10-16 185033" src="https://github.com/user-attachments/assets/3cf99bef-3785-42e5-894c-57d2fa7ae4f6" />
+<img width="1917" height="957" alt="Screenshot 2026-10-16 185053" src="https://github.com/user-attachments/assets/5a23399a-78dd-4ee7-8c39-a383b5483f59" />
+<img width="1917" height="957" alt="Screenshot 2026-10-16 185132" src="https://github.com/user-attachments/assets/e788fe51-4cdc-4801-834a-07889b0be0ef" />
+<img width="1910" height="961" alt="Screenshot 2026-10-16 185158" src="https://github.com/user-attachments/assets/2d67a82a-82c5-461a-996e-a25126ea4c96" />
+<img width="1920" height="962" alt="Screenshot 2026-10-16 185302" src="https://github.com/user-attachments/assets/1ca7bbd9-59b7-4c67-9f6e-4d19c0324d05" />
+<img width="1915" height="948" alt="Screenshot 2026-10-16 185338" src="https://github.com/user-attachments/assets/ae0b35dc-2971-4199-a999-5a8320be6546" />
+<img width="1914" height="942" alt="Screenshot 2026-10-16 185429" src="https://github.com/user-attachments/assets/d3acf75b-f48e-4933-b824-8d7c10c36b20" />
+<img width="1916" height="948" alt="Screenshot 2026-10-16 185446" src="https://github.com/user-attachments/assets/d92d8ad2-1734-4c86-88b2-bfc6da88d3b2" />
 
 ![BiteCraft Express cart screen](01-bitecraft-express-food-delivery-app/screenshot.png)
