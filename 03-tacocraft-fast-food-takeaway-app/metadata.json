@@ -1,0 +1,6 @@
+{
+  "name": "TacoCraft",
+  "description": "Production-grade fast food & takeaway mobile application with real-time tracking, biometric auth, interactive menu, and AI-powered ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
