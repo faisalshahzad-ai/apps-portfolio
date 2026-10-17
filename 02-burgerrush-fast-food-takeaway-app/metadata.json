@@ -1,0 +1,6 @@
+{
+  "name": "BurgerRush — Fast Food & Takeaway Mobile App",
+  "description": "Production-grade fast food & takeaway mobile application featuring role-based portals, biometric login, live GPS tracking, 3D burger customizer, Apple/Google Pay, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
