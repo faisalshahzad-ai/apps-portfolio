@@ -13,5 +13,6 @@ Sample mobile app projects by **Faisal Shahzad Naeem**. Each project has its own
 ## Screenshots
 
 ### 01 - BiteCraft Express Food Delivery App
+<img width="1098" height="966" alt="Screenshot 2026-10-12 213324" src="https://github.com/user-attachments/assets/0adf7f70-102c-43b6-8038-3742bb8a843f" />
 
 ![BiteCraft Express cart screen](01-bitecraft-express-food-delivery-app/screenshot.png)
