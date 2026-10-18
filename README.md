@@ -11,6 +11,7 @@ Sample mobile app projects by **Faisal Shahzad Naeem**. Each project has its own
 | 01 | BiteCraft Express: Food Delivery App (Cart & Checkout Screen) | Mobile-first cart and checkout screen with item customization, delivery address and ETA, loyalty coins, coupon code, driver tip, full bill breakdown and payment method selection | HTML, Tailwind CSS | [01-bitecraft-express-food-delivery-app](01-bitecraft-express-food-delivery-app) |
 | 02 | BurgerRush: Fast Food & Takeaway App | Mobile-first food ordering app with menu catalog, cart and checkout, biometric login, live order tracking, admin analytics and an AI support assistant | React, TypeScript, Vite, Tailwind CSS, Express, Gemini API | [02-burgerrush-fast-food-takeaway-app](02-burgerrush-fast-food-takeaway-app) |
 | 03 | TacoCraft: Fast Food & Takeaway App | Mobile-first taco ordering app with biometric login, 3D taco customizer, AI flavor recommendations, checkout, live order tracking, support chat and an admin dashboard | React, TypeScript, Vite, Tailwind CSS, Express, Gemini API | [03-tacocraft-fast-food-takeaway-app](03-tacocraft-fast-food-takeaway-app) |
+| 04 | WingStation: Fast Food & Takeaway App | Wings and sauces ordering app with onboarding, biometric login, menu, checkout, live order tracking, AI assistant and admin dashboard | React, TypeScript, Tailwind CSS, Gemini API | [04-wingstation-fast-food-takeaway-app](04-wingstation-fast-food-takeaway-app) |
 
 ## Screenshots
 
@@ -50,5 +51,20 @@ Sample mobile app projects by **Faisal Shahzad Naeem**. Each project has its own
 <img width="1915" height="948" alt="Screenshot 2026-10-16 185338" src="https://github.com/user-attachments/assets/ae0b35dc-2971-4199-a999-5a8320be6546" />
 <img width="1914" height="942" alt="Screenshot 2026-10-16 185429" src="https://github.com/user-attachments/assets/d3acf75b-f48e-4933-b824-8d7c10c36b20" />
 <img width="1916" height="948" alt="Screenshot 2026-10-16 185446" src="https://github.com/user-attachments/assets/d92d8ad2-1734-4c86-88b2-bfc6da88d3b2" />
+### 04 - WingStation Fast Food & Takeaway App
+<img width="1919" height="968" alt="Screenshot 2026-10-17 191123" src="https://github.com/user-attachments/assets/50111ba6-9aac-4c20-9ce3-1909fbc743fa" />
+<img width="1920" height="964" alt="Screenshot 2026-10-17 191145" src="https://github.com/user-attachments/assets/0f1c4edd-ea0c-4b0f-b1b6-09da249aab1c" />
+<img width="1920" height="953" alt="Screenshot 2026-10-17 191200" src="https://github.com/user-attachments/assets/9a1153a7-d29e-4441-827f-b8a3a95c2a98" />
+<img width="1920" height="951" alt="Screenshot 2026-10-17 191215" src="https://github.com/user-attachments/assets/f57f2829-4409-42c2-9ded-cfeaba1bb036" />
+<img width="1915" height="950" alt="Screenshot 2026-10-17 191230" src="https://github.com/user-attachments/assets/4f116662-7658-40a9-a0ef-3e406d44a483" />
+<img width="1920" height="955" alt="Screenshot 2026-10-17 191253" src="https://github.com/user-attachments/assets/d2e4ad7c-7a43-4dbf-9757-1e2f916f9c44" />
+<img width="1920" height="946" alt="Screenshot 2026-10-17 191333" src="https://github.com/user-attachments/assets/c3f71694-f900-4b20-840a-3f57cb26c007" />
+<img width="1920" height="960" alt="Screenshot 2026-10-17 191349" src="https://github.com/user-attachments/assets/e04fd910-ce5f-41aa-8c6c-09cc231ccd32" />
+<img width="1916" height="965" alt="Screenshot 2026-10-17 191403" src="https://github.com/user-attachments/assets/fa800d07-778a-4d62-a32e-d80db169bb2c" />
+<img width="1911" height="953" alt="Screenshot 2026-10-17 191430" src="https://github.com/user-attachments/assets/1a212129-6ce0-46f9-b1ec-d9db5ad0057b" />
+<img width="1920" height="960" alt="Screenshot 2026-10-17 191447" src="https://github.com/user-attachments/assets/22d1d3e2-606b-4f29-8ba7-1385374fc7f4" />
+<img width="1916" height="955" alt="Screenshot 2026-10-17 191503" src="https://github.com/user-attachments/assets/43a163f9-a9dd-4945-851a-919e071c2f8e" />
+<img width="1919" height="956" alt="Screenshot 2026-10-17 191534" src="https://github.com/user-attachments/assets/ee5a0681-f3a8-4905-82b4-c1d94e9cc532" />
 
+![WingStation app](04-wingstation-fast-food-takeaway-app/screenshot.png)
 ![BiteCraft Express cart screen](01-bitecraft-express-food-delivery-app/screenshot.png)
