@@ -1,0 +1,8 @@
+{
+  "name": "WingStation",
+  "description": "Production-grade fast food & takeaway mobile application for crispy wings, craft sauces, live GPS telemetry, and smart ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
