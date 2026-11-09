@@ -12,6 +12,7 @@ Sample mobile app projects by **Faisal Shahzad Naeem**. Each project has its own
 | 02 | BurgerRush: Fast Food & Takeaway App | Mobile-first food ordering app with menu catalog, cart and checkout, biometric login, live order tracking, admin analytics and an AI support assistant | React, TypeScript, Vite, Tailwind CSS, Express, Gemini API | [02-burgerrush-fast-food-takeaway-app](02-burgerrush-fast-food-takeaway-app) |
 | 03 | TacoCraft: Fast Food & Takeaway App | Mobile-first taco ordering app with biometric login, 3D taco customizer, AI flavor recommendations, checkout, live order tracking, support chat and an admin dashboard | React, TypeScript, Vite, Tailwind CSS, Express, Gemini API | [03-tacocraft-fast-food-takeaway-app](03-tacocraft-fast-food-takeaway-app) |
 | 04 | WingStation: Fast Food & Takeaway App | Wings and sauces ordering app with onboarding, biometric login, menu, checkout, live order tracking, AI assistant and admin dashboard | React, TypeScript, Tailwind CSS, Gemini API | [04-wingstation-fast-food-takeaway-app](04-wingstation-fast-food-takeaway-app) |
+| 05 | VerveFitness: Fitness & Gym Booking App | Fitness and gym app with onboarding, biometric login, class catalog, checkout, live GPS activity tracking, AI coach and admin dashboard | React, TypeScript, Tailwind CSS, Gemini API | [05-verve-fitness-app](05-verve-fitness-app) |
 
 ## Screenshots
 
@@ -68,3 +69,47 @@ Sample mobile app projects by **Faisal Shahzad Naeem**. Each project has its own
 
 ![WingStation app](04-wingstation-fast-food-takeaway-app/screenshot.png)
 ![BiteCraft Express cart screen](01-bitecraft-express-food-delivery-app/screenshot.png)
+
+### 05 - VerveFitness Fitness & Gym Booking App
+
+<img width="1920" height="1000" alt="01 Splash" src="PASTE_LINK_01" />
+<img width="2200" height="2000" alt="01-verve-splash" src="https://github.com/user-attachments/assets/35077bff-5ec5-4e97-a41e-1d5f7ceb6617" />
+<img width="1920" height="1000" alt="02 Onboarding Role" src="PASTE_LINK_02" />
+<img width="2200" height="2000" alt="02-verve-onboarding-role" src="https://github.com/user-attachments/assets/614a6be6-eeb0-4a68-a379-d8261dd5221d" />
+<img width="1920" height="1000" alt="03 Onboarding Preferences" src="PASTE_LINK_03" />
+<img width="2200" height="2000" alt="03-verve-onboarding-preferences" src="https://github.com/user-attachments/assets/2a91e6d1-360e-4980-9ce5-bfb8fe432be3" />
+<img width="1920" height="1000" alt="04 Biometric Auth" src="PASTE_LINK_04" />
+<img width="2200" height="2000" alt="04-verve-biometric-auth" src="https://github.com/user-attachments/assets/98e2ec2d-1fed-4963-9d6f-630dc771e644" />
+<img width="2200" height="2000" alt="05-verve-biometric-scanning" src="https://github.com/user-attachments/assets/bd44e9f4-0845-46a9-919c-de9b429d5f03" />
+<img width="1920" height="1000" alt="06 Explore" src="PASTE_LINK_06" />
+<img width="2200" height="2000" alt="06-verve-home" src="https://github.com/user-attachments/assets/0d383014-7380-4560-8bd1-ae35fe2fc5a0" />
+<img width="1920" height="1000" alt="07 Explore Scroll" src="PASTE_LINK_07" />
+<img width="2200" height="2000" alt="07-verve-home-scroll1" src="https://github.com/user-attachments/assets/4056a1c3-ada3-423c-9542-40c4372a9d1d" />
+<img width="1920" height="1000" alt="08 Item Detail" src="PASTE_LINK_08" />
+<img width="2200" height="2000" alt="08-verve-explore" src="https://github.com/user-attachments/assets/e2f0138e-3c01-4af0-a529-fc73990101b9" />
+<img width="1920" height="1000" alt="09 Item Detail Scroll" src="PASTE_LINK_09" />
+<img width="2200" height="2000" alt="09-verve-explore-scroll1" src="https://github.com/user-attachments/assets/c3291149-ba6d-4f50-a400-74d4acbb16f7" />
+<img width="1920" height="1000" alt="10 Checkout" src="PASTE_LINK_10" />
+<img width="2200" height="2000" alt="10-verve-explore-scroll2" src="https://github.com/user-attachments/assets/8851c531-ac28-49d4-ad08-4ed15977a1e0" />
+<img width="1920" height="1000" alt="11 Checkout Scroll" src="PASTE_LINK_11" />
+<img width="2200" height="2000" alt="11-verve-item-detail" src="https://github.com/user-attachments/assets/ec76f840-9cf2-4a14-9572-9b83ede7510d" />
+<img width="1920" height="1000" alt="12 Booking Success" src="PASTE_LINK_12" />
+<img width="2200" height="2000" alt="12-verve-item-detail-scroll1" src="https://github.com/user-attachments/assets/6dcf4d67-9bf5-4cac-a15e-410c0cfdf8dc" />
+<img width="1920" height="1000" alt="13 Fast Pass QR" src="PASTE_LINK_13" />
+<img width="2200" height="2000" alt="13-verve-item-detail-scroll2" src="https://github.com/user-attachments/assets/e28112fa-668e-4f99-8d03-3e99caa7b399" />
+<img width="1920" height="1000" alt="14 Live GPS Tracker" src="PASTE_LINK_14" />
+<img width="2200" height="2000" alt="14-verve-checkout" src="https://github.com/user-attachments/assets/b1711493-0c91-4c09-ad71-eaabe0e35ede" />
+<img width="1920" height="1000" alt="15 AI Coach Chat" src="PASTE_LINK_15" />
+<img width="2200" height="2000" alt="15-verve-checkout-scroll1" src="https://github.com/user-attachments/assets/198d7c4f-7fcd-4f21-82ed-37d7dc8dc5cb" />
+<img width="1920" height="1000" alt="16 AI Coach Reply" src="PASTE_LINK_16" />
+<img width="2200" height="2000" alt="16-verve-booking-success" src="https://github.com/user-attachments/assets/f09f0410-eeea-4fda-a308-4b145f6f1b7a" />
+<img width="1920" height="1000" alt="17 Profile" src="PASTE_LINK_17" />
+<img width="2200" height="2000" alt="17-verve-fast-pass-qr" src="https://github.com/user-attachments/assets/8da2cec1-a520-422c-9b8b-6703bf3da70c" />
+<img width="1920" height="1000" alt="18 Trainer Profile" src="PASTE_LINK_18" />
+<img width="2200" height="2000" alt="18-verve-live-gps-tracker" src="https://github.com/user-attachments/assets/76ee7f67-07db-4d5a-a754-dc4d48c1e0f6" />
+<img width="1920" height="1000" alt="19 Admin Ops HQ" src="PASTE_LINK_19" />
+<img width="2200" height="2000" alt="19-verve-ai-coach-chat" src="https://github.com/user-attachments/assets/c5c534a4-dbd5-4e45-9b0f-e2c5d1146601" />
+<img width="1920" height="1000" alt="20 Android Frame" src="PASTE_LINK_20" />
+<img width="2200" height="2000" alt="20-verve-ai-coach-typing" src="https://github.com/user-attachments/assets/548e8ad9-5b6b-49ad-9a58-3d1090af0423" />
+
+
