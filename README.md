@@ -13,6 +13,7 @@ Sample mobile app projects by **Faisal Shahzad Naeem**. Each project has its own
 | 03 | TacoCraft: Fast Food & Takeaway App | Mobile-first taco ordering app with biometric login, 3D taco customizer, AI flavor recommendations, checkout, live order tracking, support chat and an admin dashboard | React, TypeScript, Vite, Tailwind CSS, Express, Gemini API | [03-tacocraft-fast-food-takeaway-app](03-tacocraft-fast-food-takeaway-app) |
 | 04 | WingStation: Fast Food & Takeaway App | Wings and sauces ordering app with onboarding, biometric login, menu, checkout, live order tracking, AI assistant and admin dashboard | React, TypeScript, Tailwind CSS, Gemini API | [04-wingstation-fast-food-takeaway-app](04-wingstation-fast-food-takeaway-app) |
 | 05 | VerveFitness: Fitness & Gym Booking App | Fitness and gym app with onboarding, biometric login, class catalog, checkout, live GPS activity tracking, AI coach and admin dashboard | React, TypeScript, Tailwind CSS, Gemini API | [05-verve-fitness-app](05-verve-fitness-app) |
+| 06 | PulseDoctor: Doctor Appointment App | Doctor appointment app with biometric login, Patient/Doctor/Admin dashboards, doctor search and filters, booking and payment, live GPS tracking, AI copilot and admin analytics | React, TypeScript, Tailwind CSS, Gemini API | [06-pulse-doctor-app](06-pulse-doctor-app) |
 
 ## Screenshots
 
@@ -112,4 +113,49 @@ Sample mobile app projects by **Faisal Shahzad Naeem**. Each project has its own
 <img width="1920" height="1000" alt="20 Android Frame" src="PASTE_LINK_20" />
 <img width="2200" height="2000" alt="20-verve-ai-coach-typing" src="https://github.com/user-attachments/assets/548e8ad9-5b6b-49ad-9a58-3d1090af0423" />
 
+### 06 - PulseDoctor Doctor Appointment App
 
+<img width="2200" height="2000" alt="01-pulsedoctor-splash" src="PASTE_LINK_01" />
+<img width="2200" height="2000" alt="01-pulsedoctor-splash" src="https://github.com/user-attachments/assets/1965ee4a-2c1c-440b-b4cc-0b902e73ad4a" />
+
+<img width="2200" height="2000" alt="02-pulsedoctor-onboarding-role" src="PASTE_LINK_02" />
+<img width="2200" height="2000" alt="02-pulsedoctor-onboarding-role" src="https://github.com/user-attachments/assets/7312d6c9-bff9-4c41-b73a-0a7baf73cde0" />
+
+<img width="2200" height="2000" alt="03-pulsedoctor-biometric-login" src="PASTE_LINK_03" />
+<img width="2200" height="2000" alt="03-pulsedoctor-biometric-login" src="https://github.com/user-attachments/assets/c1289b68-7366-4d3e-9831-17cd54631bd0" />
+
+<img width="2200" height="2000" alt="04-pulsedoctor-patient-dashboard" src="PASTE_LINK_04" />
+<img width="2200" height="2000" alt="04-pulsedoctor-patient-dashboard" src="https://github.com/user-attachments/assets/cc0f2772-57e1-4b38-9064-1f22e49362c1" />
+
+<img width="2200" height="2000" alt="05-pulsedoctor-search-doctors" src="PASTE_LINK_05" />
+<img width="2200" height="2000" alt="05-pulsedoctor-search-doctors" src="https://github.com/user-attachments/assets/3b1e1589-11b4-4bf2-8e6e-818458160c16" />
+
+<img width="2200" height="2000" alt="06-pulsedoctor-doctor-profile" src="PASTE_LINK_06" />
+<img width="2200" height="2000" alt="06-pulsedoctor-doctor-profile" src="https://github.com/user-attachments/assets/9f1dff15-141b-4103-ae11-ddcf0d9cf852" />
+
+<img width="2200" height="2000" alt="07-pulsedoctor-booking-checkout" src="PASTE_LINK_07" />
+<img width="2200" height="2000" alt="07-pulsedoctor-booking-checkout" src="https://github.com/user-attachments/assets/3c941b73-23df-4e3f-b702-8659c5bd92a0" />
+
+<img width="2200" height="2000" alt="08-pulsedoctor-live-gps-tracking" src="PASTE_LINK_08" />
+<img width="2200" height="2000" alt="08-pulsedoctor-live-gps-tracking" src="https://github.com/user-attachments/assets/5b4e1f34-fb94-4347-854a-e87d46c130bc" />
+
+<img width="2200" height="2000" alt="09-pulsedoctor-payment-sheet" src="PASTE_LINK_09" />
+<img width="2200" height="2000" alt="09-pulsedoctor-payment-sheet" src="https://github.com/user-attachments/assets/98caf39f-296d-46e1-946f-74a7f7791c99" />
+
+<img width="2200" height="2000" alt="10-pulsedoctor-ai-copilot" src="PASTE_LINK_10" />
+<img width="2200" height="2000" alt="10-pulsedoctor-ai-copilot" src="https://github.com/user-attachments/assets/8e2e9fa1-46d1-4811-a3bb-c6ccbeec6b5c" />
+
+<img width="2200" height="2000" alt="11-pulsedoctor-ai-copilot-reply" src="PASTE_LINK_11" />
+<img width="2200" height="2000" alt="11-pulsedoctor-ai-copilot-reply" src="https://github.com/user-attachments/assets/f376da62-fca6-4a7c-a2ae-667f478d24e6" />
+
+<img width="2200" height="2000" alt="12-pulsedoctor-health-records" src="PASTE_LINK_12" />
+<img width="2200" height="2000" alt="12-pulsedoctor-health-records" src="https://github.com/user-attachments/assets/3923a84c-f20e-4039-b104-0a56013101ab" />
+
+<img width="2200" height="2000" alt="13-pulsedoctor-admin-analytics" src="PASTE_LINK_13" />
+<img width="2200" height="2000" alt="13-pulsedoctor-admin-analytics" src="https://github.com/user-attachments/assets/8bd04dd7-3215-433b-8468-6cc0485c3e83" />
+
+<img width="2200" height="2000" alt="14-pulsedoctor-doctor-dashboard" src="PASTE_LINK_14" />
+<img width="2200" height="2000" alt="14-pulsedoctor-doctor-dashboard" src="https://github.com/user-attachments/assets/48db6122-0b74-4387-baf4-87e02849d13d" />
+
+<img width="2200" height="2000" alt="15-pulsedoctor-admin-dashboard" src="PASTE_LINK_15" />
+<img width="2200" height="2000" alt="15-pulsedoctor-admin-dashboard" src="https://github.com/user-attachments/assets/5aa6ce1b-cfd3-4285-8446-4faacdce7f9b" />
